@@ -5,9 +5,8 @@ Zenmap (GUI)
 As we all know zenmap is removed from kali so, here are the things you need to install it again.
 first install both python files and Install zenmap.
 
-#Any other Linux
+#Ubuntu
 
-first you have to install nmap and these three files.
 Install ZenMap on Ubuntu 20.04 LTS Focal Linux
 As Zenmap is not available anymore in the official repository of Ubuntu, thus we have to download and install it manually.
 
